@@ -12,32 +12,31 @@
   ![DataViz](https://img.shields.io/badge/DataViz-Qlik-00B140)
   ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12)
   
-- **Cloud data platforms** :
+- **Cloud data platforms** :  
   GCP *(BigQuery, Looker Studio)*,  
   Azure *(Azure Data Factory, Microsoft Fabric – concepts & architecture)*,  
   AWS *(services data – concepts)*  
 
 - **Databases** :  
-  PostgreSQL 
-  Snowflake 
+  PostgreSQL  
+  Snowflake  
 
 - **Data Transformation** :
   dbt *(SQL, modélisation analytique, couche analytics)*  
   
 
 - **Data Visualization** :
-  Power BI
-  Looker Studio
+  Power BI  
+  Looker Studio  
   QlikView / Qlik Sense  
   
 
 - **SQL** :
-  analyse
-  agrégations
-  modélisation
+  analyse  
+  agrégations  
+  modélisation  
   analytique  
   
-
 
 ---
 
