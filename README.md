@@ -36,7 +36,7 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 
 ### Objectif du dépôt
 
-Ce dépôt a pour objectif de démontrer mes compétences en **Data Analytics** et **Business Intelligence**, avec une approche orientée **architecture data**, **qualité**, et **lisibilité métier**.
+Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Analyst** et/ou **Business Analyst**, avec une approche orientée **architecture data**, **qualité**, et **lisibilité métier**.
 
 ---
 
