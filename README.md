@@ -4,14 +4,14 @@
 
 Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **étapes du pipeline data**, afin de permettre une lecture rapide par compétence.
 
-</div>
+
 
 ---
 
 
 ### 1️⃣ Cloud data platforms
 
-<div align="center">
+
 
 |  |  |  |
 |---|---|---|
