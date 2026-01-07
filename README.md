@@ -39,7 +39,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
 ---
 
-📫 Contact  
+### 📫 Contact  
 LinkedIn : https://www.linkedin.com/in/jalal-hilal/  
 Email : jalal.hilal@hotmail.fr
 
