@@ -9,9 +9,9 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 ---
 
 
+### 1️⃣ Cloud data platforms
 
 <div align="center">
-### 1️⃣ Cloud data platforms
 
 |  |  |  |
 |---|---|---|
