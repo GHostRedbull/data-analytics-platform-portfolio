@@ -1,7 +1,7 @@
-# RH & Planning Analytics — Power BI
+# Planning Analytics — Power BI
 
 ## Contexte
-Projet réalisé dans un contexte de **pilotage RH et de suivi du planning opérationnel**, visant à fiabiliser les indicateurs liés au **temps de travail**, aux **règles RH** et à la **conformité réglementaire**.
+Projet réalisé dans un contexte de **suivi du planning opérationnel**, visant à fiabiliser les indicateurs liés au **temps de travail**, aux **règles RH** et à la **conformité réglementaire**.
 
 Les données provenaient de plusieurs extractions CSV, difficiles à exploiter et à maintenir dans le temps.
 
