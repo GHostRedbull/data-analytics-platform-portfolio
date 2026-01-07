@@ -52,14 +52,14 @@ Une attention particulière est portée à :
 ## Architecture data (approche entreprise)
 
 Les projets suivent une architecture inspirée des environnements professionnels :
-  Sources métier (CSV / exports applicatifs)
-  ↓
-  PostgreSQL — schéma raw (données brutes)
-  ↓
-  dbt — transformations & logique métier
-  ↓
-  PostgreSQL — schéma analytics (données analytiques)
-  ↓
+  Sources métier (CSV / exports applicatifs)  
+  ↓  
+  PostgreSQL — schéma raw (données brutes)  
+  ↓  
+  dbt — transformations & logique métier  
+  ↓  
+  PostgreSQL — schéma analytics (données analytiques)  
+  ↓  
   Outils de Data Visualization (Power BI, Looker Studio, Qlik)
 
 
