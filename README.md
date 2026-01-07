@@ -3,18 +3,14 @@
 ## Technologies & plateform
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
 ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4)
-![Cloud](https://img.shields.io/badge/Cloud-GCP-34A853)
-
+![Cloud](https://img.shields.io/badge/Cloud-GCP-34A853)  
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
-![Database](https://img.shields.io/badge/Database-Snowflake-29B5E8)
-
-![Transformation](https://img.shields.io/badge/Data%20Transformation-dbt-EF476F)
-
+![Database](https://img.shields.io/badge/Database-Snowflake-29B5E8)  
+![Transformation](https://img.shields.io/badge/Data%20Transformation-dbt-EF476F)  
 ![DataViz](https://img.shields.io/badge/DataViz-Power%20BI-F2C811)
 ![DataViz](https://img.shields.io/badge/DataViz-Looker%20Studio-00A67E)
-![DataViz](https://img.shields.io/badge/DataViz-Qlik-8E44AD)
-
-![SQL](https://img.shields.io/badge/SQL-Analytics-6C757D)
+![DataViz](https://img.shields.io/badge/DataViz-Qlik-8E44AD)  
+![SQL](https://img.shields.io/badge/SQL-Analytics-6C757D)  
   
 - **Cloud data platforms** :  
   GCP *(BigQuery, Looker Studio)*,  
