@@ -29,8 +29,8 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 
 |  |  |  |
 |---|---|---|
-| **RH & Planning Analytics** | **PostgreSQL -> dbt -> Power BI**  |  [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
-| **E-commerce Customer Analytics** | **BigQuery -> Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
+| **RH & Planning Analytics** | **PostgreSQL > dbt > Power BI**  |  [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
+| **E-commerce Customer Analytics** | **BigQuery > Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
 
 ---
 
