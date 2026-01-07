@@ -11,23 +11,19 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 - **Azure** → `TECH/1_CLOUD_DATA_PLATFORMS/AZURE`
 - **GCP** → `TECH/1_CLOUD_DATA_PLATFORMS/GCP`
 
----
 
 ### 2️⃣ Databases
 - **PostgreSQL** → `TECH/2_DATABASES/POSTGRESQL`
 - **Snowflake** → `TECH/2_DATABASES/SNOWFLAKE`
 
----
 
 ### 3️⃣ Data Transformation
 - **dbt** → `TECH/3_DATA_TRANSFORMATION/DBT`
 
----
 
 ### 4️⃣ SQL
 - **SQL Analytics & Patterns** → `TECH/4_SQL`
 
----
 
 ### 5️⃣ Data Visualization
 - **Power BI** → `TECH/5_DATA_VISUALIZATION/POWER_BI`
