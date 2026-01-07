@@ -130,5 +130,5 @@ Le repository est organisé par **plateformes**, puis par **technologies**, afin
 Ce portfolio est conçu comme un support de démonstration de compétences en **Data Analytics**, avec une approche orientée métier, qualité des données et clarté de restitution.
 
 📫 Contact :  
-- LinkedIn : *(à ajouter)*  
-- Email : *(à ajouter)*
+- LinkedIn : https://www.linkedin.com/in/jalal-hilal/
+- Email : jalal.hilal@hotmail.fr
