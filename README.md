@@ -2,55 +2,66 @@
 
 Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **étapes du pipeline data**, afin de permettre une lecture rapide par compétence.
 
-
 ---
 
 ## Accès rapide par technologie
 
-### 1️⃣ Cloud data platforms
-- [AWS](TECH/1_CLOUD_DATA_PLATFORMS/AWS)
-- [Azure](TECH/1_CLOUD_DATA_PLATFORMS/AZURE)
-- [GCP](TECH/1_CLOUD_DATA_PLATFORMS/GCP)
+### 1️⃣ Cloud data platforms  
+Dossier racine : `TECH/1_CLOUD_DATA_PLATFORMS`
+
+- **AWS** — `TECH/1_CLOUD_DATA_PLATFORMS/AWS` 👉 [TECH/1_CLOUD_DATA_PLATFORMS/AWS](TECH/1_CLOUD_DATA_PLATFORMS/AWS)
+- **Azure** — `TECH/1_CLOUD_DATA_PLATFORMS/AZURE` 👉 [TECH/1_CLOUD_DATA_PLATFORMS/AZURE](TECH/1_CLOUD_DATA_PLATFORMS/AZURE)
+- **GCP** — `TECH/1_CLOUD_DATA_PLATFORMS/GCP` 👉 [TECH/1_CLOUD_DATA_PLATFORMS/GCP](TECH/1_CLOUD_DATA_PLATFORMS/GCP)
 
 ---
 
-### 2️⃣ Databases
-- [PostgreSQL](TECH/2_DATABASES/POSTGRESQL)
-- [Snowflake](TECH/2_DATABASES/SNOWFLAKE)
+### 2️⃣ Databases  
+Dossier racine : `TECH/2_DATABASES`
+
+- **PostgreSQL** — `TECH/2_DATABASES/POSTGRESQL` 👉 [TECH/2_DATABASES/POSTGRESQL](TECH/2_DATABASES/POSTGRESQL)
+- **Snowflake** — `TECH/2_DATABASES/SNOWFLAKE` 👉 [TECH/2_DATABASES/SNOWFLAKE](TECH/2_DATABASES/SNOWFLAKE)
 
 ---
 
-### 3️⃣ Data Transformation
-- [dbt](TECH/3_DATA_TRANSFORMATION/DBT)
+### 3️⃣ Data Transformation  
+Dossier racine : `TECH/3_DATA_TRANSFORMATION`
+
+- **dbt** — `TECH/3_DATA_TRANSFORMATION/DBT` 👉 [TECH/3_DATA_TRANSFORMATION/DBT](TECH/3_DATA_TRANSFORMATION/DBT)
 
 ---
 
-### 4️⃣ SQL
-- [SQL – Analytics & Patterns](TECH/4_SQL)
+### 4️⃣ SQL  
+Dossier racine : `TECH/4_SQL`
+
+- **SQL Analytics & Patterns** — `TECH/4_SQL` 👉 [TECH/4_SQL](TECH/4_SQL)
 
 ---
 
-### 5️⃣ Data Visualization
-- [Power BI](TECH/5_DATA_VISUALIZATION/POWER_BI)
-- [Looker Studio](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO)
-- [QlikView / Qlik Sense](TECH/5_DATA_VISUALIZATION/QLIK)
+### 5️⃣ Data Visualization  
+Dossier racine : `TECH/5_DATA_VISUALIZATION`
+
+- **Power BI** — `TECH/5_DATA_VISUALIZATION/POWER_BI` 👉 [TECH/5_DATA_VISUALIZATION/POWER_BI](TECH/5_DATA_VISUALIZATION/POWER_BI)
+- **Looker Studio** — `TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO` 👉 [TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO)
+- **QlikView / Qlik Sense** — `TECH/5_DATA_VISUALIZATION/QLIK` 👉 [TECH/5_DATA_VISUALIZATION/QLIK](TECH/5_DATA_VISUALIZATION/QLIK)
 
 ---
 
 ## Projets concrets
-- [RH & Planning Analytics — dbt / PostgreSQL / Power BI](PROJECTS/RH_PLANNING_DBT_POWERBI)
-- [E-commerce Customer Analytics — BigQuery / Looker Studio](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER)
+
+- **RH & Planning Analytics — dbt / PostgreSQL / Power BI**  
+  `PROJECTS/RH_PLANNING_DBT_POWERBI` 👉 [PROJECTS/RH_PLANNING_DBT_POWERBI](PROJECTS/RH_PLANNING_DBT_POWERBI)
+
+- **E-commerce Customer Analytics — BigQuery / Looker Studio**  
+  `PROJECTS/ECOMMERCE_BIGQUERY_LOOKER` 👉 [PROJECTS/ECOMMERCE_BIGQUERY_LOOKER](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER)
 
 ---
 
 ## Objectif du dépôt
 
-Ce dépôt a pour objectif de :
-- démontrer mes compétences Data Analytics et BI
-- présenter une architecture data inspirée des environnements professionnels
-- permettre un accès rapide par technologie selon les besoins du recruteur
+Ce dépôt a pour objectif de démontrer mes compétences en **Data Analytics** et **Business Intelligence**, avec une approche orientée **architecture data**, **qualité**, et **lisibilité métier**.
 
 ---
+
 
 📫 Contact :  
 - LinkedIn : https://www.linkedin.com/in/jalal-hilal/
