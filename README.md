@@ -32,10 +32,7 @@
   
 
 - **SQL** :  
-  analyse  
-  agrégations  
-  modélisation  
-  analytique  
+  analyse, agrégations, modélisation, analytique  
   
 
 ---
