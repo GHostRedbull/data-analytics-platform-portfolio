@@ -5,7 +5,7 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 ---
 
 ### 1️⃣ Cloud data platforms
-|  | Technologie | Chemin |
+|  |  |  |
 |-----------|----------|--------|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | AWS | 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/AWS`](TECH/1_CLOUD_DATA_PLATFORMS/AWS) |
 | ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | Azure | 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/AZURE`](TECH/1_CLOUD_DATA_PLATFORMS/AZURE) |
