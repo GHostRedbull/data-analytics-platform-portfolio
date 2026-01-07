@@ -6,7 +6,7 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 
 ---
 
-# Technologies
+## Technologies
 
 
 |  |  |  |
