@@ -4,36 +4,48 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 
 ---
 
-## Accès rapide par technologie
+### 1️⃣ Cloud data platforms
 
-### 1️⃣ Cloud data platforms  
+| Technologie | Catégorie | Chemin | Lien |
+|-----------|----------|--------|------|
+| ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | AWS | `TECH/1_CLOUD_DATA_PLATFORMS/AWS` | [TECH/1_CLOUD_DATA_PLATFORMS/AWS](TECH/1_CLOUD_DATA_PLATFORMS/AWS) |
+| ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | Azure | `TECH/1_CLOUD_DATA_PLATFORMS/AZURE` | [TECH/1_CLOUD_DATA_PLATFORMS/AZURE](TECH/1_CLOUD_DATA_PLATFORMS/AZURE) |
+| ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4) | GCP | `TECH/1_CLOUD_DATA_PLATFORMS/GCP` | [TECH/1_CLOUD_DATA_PLATFORMS/GCP](TECH/1_CLOUD_DATA_PLATFORMS/GCP) |
 
-- ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900) **AWS** — 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/AWS`](TECH/1_CLOUD_DATA_PLATFORMS/AWS)
-- **Azure** — 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/AZURE`](TECH/1_CLOUD_DATA_PLATFORMS/AZURE)
-- **GCP** — 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/GCP`](TECH/1_CLOUD_DATA_PLATFORMS/GCP)
+---
 
+### 2️⃣ Databases
 
-### 2️⃣ Databases  
+| Technologie | Type | Chemin | Lien |
+|------------|------|--------|------|
+| ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | Relationnelle | `TECH/2_DATABASES/POSTGRESQL` | [TECH/2_DATABASES/POSTGRESQL](TECH/2_DATABASES/POSTGRESQL) |
+| ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | Cloud DWH | `TECH/2_DATABASES/SNOWFLAKE` | [TECH/2_DATABASES/SNOWFLAKE](TECH/2_DATABASES/SNOWFLAKE) |
 
-- **PostgreSQL** — 👉 [`TECH/2_DATABASES/POSTGRESQL`](TECH/2_DATABASES/POSTGRESQL)
-- **Snowflake** — 👉 [`TECH/2_DATABASES/SNOWFLAKE`](TECH/2_DATABASES/SNOWFLAKE)
+---
 
+### 3️⃣ Data Transformation
 
-### 3️⃣ Data Transformation  
+| Outil | Rôle | Chemin | Lien |
+|------|------|--------|------|
+| ![dbt](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50) | Modélisation analytique | `TECH/3_DATA_TRANSFORMATION/DBT` | [TECH/3_DATA_TRANSFORMATION/DBT](TECH/3_DATA_TRANSFORMATION/DBT) |
 
-- **dbt** — 👉 [`TECH/3_DATA_TRANSFORMATION/DBT`](TECH/3_DATA_TRANSFORMATION/DBT)
+---
 
+### 4️⃣ SQL
 
-### 4️⃣ SQL  
+| Compétence | Usage | Chemin | Lien |
+|-----------|-------|--------|------|
+| ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12) | Analyse & modélisation | `TECH/4_SQL` | [TECH/4_SQL](TECH/4_SQL) |
 
-- **SQL Analytics & Patterns** — 👉 [`TECH/4_SQL`](TECH/4_SQL)
-  
+---
 
-### 5️⃣ Data Visualization  
+### 5️⃣ Data Visualization
 
-- **Power BI** — 👉 [`TECH/5_DATA_VISUALIZATION/POWER_BI`](TECH/5_DATA_VISUALIZATION/POWER_BI)
-- **Looker Studio** — 👉 [`TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO`](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO)
-- **QlikView / Qlik Sense** — 👉 [`TECH/5_DATA_VISUALIZATION/QLIK`](TECH/5_DATA_VISUALIZATION/QLIK)
+| Outil | Type | Chemin | Lien |
+|------|------|--------|------|
+| ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | Dashboarding | `TECH/5_DATA_VISUALIZATION/POWER_BI` | [TECH/5_DATA_VISUALIZATION/POWER_BI](TECH/5_DATA_VISUALIZATION/POWER_BI) |
+| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | BI Web | `TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO` | [TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO) |
+| ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | Data Discovery | `TECH/5_DATA_VISUALIZATION/QLIK` | [TECH/5_DATA_VISUALIZATION/QLIK](TECH/5_DATA_VISUALIZATION/QLIK) |
 
 ---
 
