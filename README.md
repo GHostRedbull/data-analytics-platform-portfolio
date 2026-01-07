@@ -39,8 +39,8 @@ Ce dépôt a pour objectif de démontrer mes compétences en **Data Analytics** 
 ---
 
 
-📫 Contact :  
-LinkedIn : https://www.linkedin.com/in/jalal-hilal/
+📫 Contact  
+LinkedIn : https://www.linkedin.com/in/jalal-hilal/  
 Email : jalal.hilal@hotmail.fr
 
 </div>
