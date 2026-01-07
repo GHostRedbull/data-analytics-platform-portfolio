@@ -6,8 +6,8 @@
 ![Looker](https://img.shields.io/badge/Looker%20Studio-BI-4285F4)
 
 <!-- Microsoft stack -->
-![PowerBI](https://img.shields.io/badge/Power%20BI-Microsoft-7B3FE4)
 ![Azure](https://img.shields.io/badge/Azure-Data%20Platform-7B3FE4)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Microsoft-7B3FE4)
 
 <!-- Other -->
 ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud-56B9EB)
