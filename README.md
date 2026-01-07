@@ -21,17 +21,17 @@
   PostgreSQL  
   Snowflake  
 
-- **Data Transformation** :
+- **Data Transformation** :  
   dbt *(SQL, modélisation analytique, couche analytics)*  
   
 
-- **Data Visualization** :
+- **Data Visualization** :  
   Power BI  
   Looker Studio  
   QlikView / Qlik Sense  
   
 
-- **SQL** :
+- **SQL** :  
   analyse  
   agrégations  
   modélisation  
