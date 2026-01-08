@@ -24,6 +24,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![Tableau](https://img.shields.io/badge/DataViz-Tableau-E97627?logo=tableau&logoColor=white) | **Tableau** | 🔄 |
 | ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** | ❌ |
 | ![ETL](https://img.shields.io/badge/ETL-SSIS-0078D4?logo=microsoft&logoColor=white) | **SSIS** | ✅ |
+| ![Power Automate](https://img.shields.io/badge/Power%20Automate-Workflow-0066FF?logo=power-automate&logoColor=white) | **Power Automate** | ✅ |
 
 ---
 
