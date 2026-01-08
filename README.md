@@ -32,7 +32,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 |  |  |  |
 |---|---|---|
 | ![SQL](https://img.shields.io/badge/SQL-Analytics-4479A1?logo=postgresql&logoColor=white) | **SQL** | ✅ |
-| ![DAX - Power Query](https://img.shields.io/badge/DAX%20et%20Power%20Query-Power%20BI-F2C811?logo=powerbi&logoColor=black) | **DAX - Power Query** | ✅ |
+| ![DAX - Power Query](https://img.shields.io/badge/DAX%20-%20Power%20Query-Power%20BI-F2C811?logo=powerbi&logoColor=black) | **DAX - Power Query** | ✅ |
 | ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white) | **Python** | ✅ |
 | ![CSharp](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white) | **C#** | ✅ |
 | ![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=java&logoColor=white) | **Java** | ✅ |
