@@ -11,7 +11,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 ### 🛠️ Technologies
 
 
-|  |  |
+|  |  |  |
 |---|---|--|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** | ✅ |
 | ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure** | ❌ |
