@@ -19,7 +19,6 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 |------|------|
 | Valide | 🟢✔ |
 | En cours | 🔵🔄 |
-
     </td>
     <td>
 
@@ -28,7 +27,6 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 |------|------|
 | Non valide | 🔴✖ |
 | — | — |
-
     </td>
   </tr>
 </table>
