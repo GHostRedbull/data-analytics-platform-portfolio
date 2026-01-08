@@ -13,7 +13,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 |  |  |  |
 |---|---|--|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS Cloud (S3, EC2, DynamoDB)** | ✅ |
-| ![GCP](https://img.shields.io/badge/Cloud-GCP-5C2D91) | **GCP Cloud (BigQuery)** | ✅ |
+| ![GCP](https://img.shields.io/badge/Cloud-GCP-5C2D91) | **Google Cloud (BigQuery)** | ✅ |
 | ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Factory-4285F4?logo=microsoft&logoColor=white) | **Microsoft Azure Data Factory** | 🔄 |
 | ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Lake-4285F4?logo=microsoft&logoColor=white) | **Microsoft Azure Data Lake** | 🔄 |
 | ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Fabric-4285F4?logo=microsoft&logoColor=white) | **Microsoft Fabric** | ❌ |
