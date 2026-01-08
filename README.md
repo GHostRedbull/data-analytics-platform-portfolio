@@ -12,9 +12,10 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
 |  |  |  |
 |---|---|--|
-| ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** | ✅ |
-| ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure** | 🔄 |
+| ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS S3** | ✅ |
 | ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4) | **GCP** | ✅ |
+| ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure ** | 🔄 |
+| ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-5C2D91?logo=microsoft&logoColor=white) | **Microsoft Fabric** | 🔄 |
 | ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | **PostgreSQL** | ✅ |
 | ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** | ❌ |
 | ![dbt](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50) | **dbt** | ✅ |
