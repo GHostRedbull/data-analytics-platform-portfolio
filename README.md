@@ -22,6 +22,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | **Power BI** | ✅ |
 | ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** | 🔄 |
 | ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** | ❌ |
+| ![SSIS](https://img.shields.io/badge/SSIS-ETL-0078D4?logo=microsoft&logoColor=white) | **SSIS** | ✅ |
 
 ---
 
