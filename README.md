@@ -12,17 +12,17 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
 
 |  |  |
-|---|---|
-| ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** |
-| ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure** |
-| ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4) | **GCP** |
-| ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | **PostgreSQL** |
-| ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** |
-| ![dbt](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50) | **dbt** |
-| ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12) | **SQL** |
-| ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | **Power BI** |
-| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** |
-| ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** |
+|---|---|--|
+| ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** | ✅ |
+| ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure** | ❌ |
+| ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4) | **GCP** | ✅ |
+| ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | **PostgreSQL** | ✅ |
+| ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** | ❌ |
+| ![dbt](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50) | **dbt** | ✅ |
+| ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12) | **SQL** | ✅ |
+| ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | **Power BI** | ✅ |
+| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** | 🔄 |
+| ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** | 🔄 |
 
 ---
 
