@@ -22,6 +22,18 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
     </td>
     <td>
+
+### Tableau 2
+| État | Icône |
+|------|------|
+| Non valide | 🔴✖ |
+| — | — |
+
+    </td>
+  </tr>
+</table>
+
+
 |  |  |  |
 |---|---|--|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** | ✅ |
@@ -35,9 +47,6 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** | 🔄 |
 | ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** | ❌ |
 
-    </td>
-  </tr>
-</table>
 ---
 
 ### 📂 Projets concrets
